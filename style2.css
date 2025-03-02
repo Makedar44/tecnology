@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background: 
+    url("https://www.hse.ru/data/2024/12/26/1916248045/4titul.png") no-repeat 40% 20%,
+    url("/uploads/2021/01/fish1_0_1610653588.svg") no-repeat 70% 90%,
+    url("/uploads/2021/01/coral_0_1610653588.svg") no-repeat 90% 70%;
+    color: white;
+}
+
+footer {
+    background-color: gray;
+}
+
+main {
+    border: 1px solid darkblue;
+}
+
+img {
+    margin-left: 300px;
+}
+
+h1 {
+    text-align: center;
+}
